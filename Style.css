@@ -1,0 +1,57 @@
+
+#main{
+    background-color:rgba(187, 220, 19, 0.15);
+}
+
+#title{
+    color: rgb(126, 13, 183);
+    text-align: center;
+}
+
+#tribute-info{
+    color: black;
+    font-size: 18px;;
+    text-align: left;
+    
+}
+
+#tribute-info h2{
+    color: rgba(181, 11, 11, 0.473);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+} 
+
+.allign-left{
+    text-align: left;
+    line-height: 25px;
+}
+
+.scrl{
+    height:200px;
+    overflow:scroll;
+}
+
+.left{
+    text-align:left;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:medium
+}
+
+#image{
+    max-width: 100%;
+    height: auto;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+.parafooter{
+    text-align: center;
+}
+.foot{
+  border: 5px outset rgb(219, 23, 23);
+  background-color: rgba(10, 71, 140, 0.614);    
+  text-align: center;
+}
+#image-caption{
+    font-family:'Times New Roman', Times, serif;
+}
